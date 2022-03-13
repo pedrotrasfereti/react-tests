@@ -17,7 +17,7 @@
 Welcome to the _GitHub repository_ of my fifth front-end project, **React Tests**!
 Here you can find information about the project's development, such as which technologies were used, how to get a local copy, usage and more.
 
-This project was developed during my time at [Trybe](https://www.betrybe.com/) to practice the lessons learned on automated testing using React Testing Library (**RTL**). The tests suites can be found in the `./src/tests` directory.
+This project was developed during my time at [Trybe](https://www.betrybe.com/) to practice the lessons learned on automated testing using React Testing Library (**RTL**). The tests suites for the front-end can be found in the `src/tests` directory.
 
 <br>
 
